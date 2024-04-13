@@ -29,8 +29,59 @@
 \subsection{Bandbreite}
 
 
+\section{Übertragungsfunktion}
+Die Übertragungsfunktion beschreibt das Ausgangs- im Vergleich zum Eingangssignal und ist definiert als
+\begin{align}
+    \underline{H}(j\omega)=\frac{\underline{U}_2}{\underline{U}_1}
+\end{align}
+wobei $\underline{U}_1$ der Eingang und $\underline{U}_2$ der Ausgang ist.
 
-\section{Bodediagramm}
-\subsection{Übertragungsfunktion}
-\subsection{Amplitudengang}
-\subsection{Frequenzgang}
+\subsection{Bodediagramm}
+Das Bodediagramm zeigt das Verhalten eines Systems im logarithmischen Frequenzbereich. Es besteht aus Amplitudengang (in dB) und Phasengang (in °) und veranschaulicht die Übertragungsfunktion $H(j\omega)$.\\
+Es könnte beispielsweise so aussehen:
+\begin{tikzpicture}
+    \begin{semilogxaxis}[
+        xlabel={$\omega [rad]$},
+        ylabel={$|\underline{H}(j\omega)|[dB]$},
+        xmin=0.01, xmax=100,
+        ymin=-40, ymax=10,
+        xmode=log,
+        grid=both,
+        grid style={line width=.1pt, draw=gray!10},
+        major grid style={line width=.2pt,draw=gray!50},
+        minor tick num=5,
+        width=10cm,
+        height=8cm,
+        ]
+    
+    \addplot[domain=0.01:100, blue, thick] {
+        20 * log10(
+            1/(x+1)
+        )
+    };
+    \addlegendentry{Amplitude};
+\end{semilogxaxis}
+\end{tikzpicture}
+    
+\vspace{0.25cm}
+    
+\begin{tikzpicture}
+\begin{semilogxaxis}[
+        xlabel={$\omega [rad]$},
+        ylabel={$\varphi [\degree]$},
+        xmin=0.01, xmax=100,
+        ymin=-90, ymax=0,
+        xmode=log,
+        grid=both,
+        grid style={line width=.1pt, draw=gray!10},
+        major grid style={line width=.2pt,draw=gray!50},
+        minor tick num=5,
+        width=10cm,
+        height=8cm,
+        ]
+    
+    \addplot[domain=0.01:100, red, thick] {-atan(x/10)};
+    \addlegendentry{Frequenz};
+    
+    \end{semilogxaxis}
+\end{tikzpicture}

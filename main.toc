@@ -1,74 +1,76 @@
 \babel@toc {english}{}\relax 
-\contentsline {chapter}{\numberline {1}Grundkonzepte}{5}{}%
-\contentsline {section}{\numberline {1.1}Grundeinheiten}{5}{}%
-\contentsline {section}{\numberline {1.2}Konstanten}{5}{}%
-\contentsline {chapter}{\numberline {2}Widerstand}{6}{}%
-\contentsline {section}{\numberline {2.1}Ohm'sches Gesetz}{6}{}%
-\contentsline {section}{\numberline {2.2}Netzwerke}{6}{}%
-\contentsline {subsection}{\numberline {2.2.1}Serienschaltung}{6}{}%
-\contentsline {subsection}{\numberline {2.2.2}Parallelschaltung}{6}{}%
-\contentsline {section}{\numberline {2.3}Leitungswiderstand}{6}{}%
-\contentsline {section}{\numberline {2.4}Sterndreiecktransformation}{6}{}%
-\contentsline {section}{\numberline {2.5}Temperaturabhängigkeit}{6}{}%
-\contentsline {section}{\numberline {2.6}Potentiometer}{6}{}%
-\contentsline {chapter}{\numberline {3}Kirchhoff}{7}{}%
-\contentsline {section}{\numberline {3.1}Knotenregel}{7}{}%
-\contentsline {section}{\numberline {3.2}Maschenregel}{7}{}%
-\contentsline {chapter}{\numberline {4}Leistung}{8}{}%
-\contentsline {section}{\numberline {4.1}Blindleistung}{8}{}%
-\contentsline {subsection}{\numberline {4.1.1}Kompensation}{8}{}%
-\contentsline {section}{\numberline {4.2}Scheinleistung}{8}{}%
-\contentsline {section}{\numberline {4.3}Wirkleistung}{8}{}%
-\contentsline {section}{\numberline {4.4}Wirkungsgrad}{8}{}%
-\contentsline {chapter}{\numberline {5}Quellen}{9}{}%
-\contentsline {section}{\numberline {5.1}Spannungsquelle}{9}{}%
-\contentsline {section}{\numberline {5.2}Stromquelle}{9}{}%
-\contentsline {section}{\numberline {5.3}Überlagerungsprinzip}{9}{}%
-\contentsline {section}{\numberline {5.4}Ersatzschaltbild}{9}{}%
-\contentsline {chapter}{\numberline {6}Felder}{10}{}%
-\contentsline {section}{\numberline {6.1}Elektrisches Feld}{10}{}%
-\contentsline {section}{\numberline {6.2}Elektrischer Fluss}{10}{}%
-\contentsline {section}{\numberline {6.3}Magnetisches Feld}{10}{}%
-\contentsline {section}{\numberline {6.4}Magnetischer Fluss}{10}{}%
-\contentsline {chapter}{\numberline {7}dB-Rechnung}{11}{}%
-\contentsline {section}{\numberline {7.1}dBV}{11}{}%
-\contentsline {section}{\numberline {7.2}dB}{11}{}%
-\contentsline {section}{\numberline {7.3}dBm}{11}{}%
-\contentsline {chapter}{\numberline {8}Wechselstromtechnik}{12}{}%
-\contentsline {section}{\numberline {8.1}Komplexe Zahlen}{12}{}%
-\contentsline {section}{\numberline {8.2}Zeigerdiagramm}{12}{}%
-\contentsline {section}{\numberline {8.3}Impedanz}{12}{}%
-\contentsline {section}{\numberline {8.4}Admittanz}{12}{}%
-\contentsline {chapter}{\numberline {9}Lineare Bauteile}{13}{}%
-\contentsline {section}{\numberline {9.1}Kondensator}{14}{}%
-\contentsline {subsection}{\numberline {9.1.1}Kapazität}{14}{}%
-\contentsline {subsection}{\numberline {9.1.2}Ladung}{14}{}%
-\contentsline {section}{\numberline {9.2}Spule}{14}{}%
-\contentsline {subsection}{\numberline {9.2.1}Induktionsvorgänge}{14}{}%
-\contentsline {subsection}{\numberline {9.2.2}Kopplungsgrad}{14}{}%
-\contentsline {subsection}{\numberline {9.2.3}Induktivitäten}{14}{}%
-\contentsline {section}{\numberline {9.3}RLC Netzwerke}{14}{}%
-\contentsline {subsection}{\numberline {9.3.1}$\tau $-Messung}{14}{}%
-\contentsline {section}{\numberline {9.4}Resonanzkreise}{14}{}%
-\contentsline {subsection}{\numberline {9.4.1}Güte}{14}{}%
-\contentsline {subsection}{\numberline {9.4.2}Bandbreite}{14}{}%
-\contentsline {section}{\numberline {9.5}Bodediagramm}{14}{}%
-\contentsline {subsection}{\numberline {9.5.1}Übertragungsfunktion}{14}{}%
-\contentsline {subsection}{\numberline {9.5.2}Amplitudengang}{14}{}%
-\contentsline {subsection}{\numberline {9.5.3}Frequenzgang}{14}{}%
-\contentsline {chapter}{\numberline {10}Halbleiter}{15}{}%
-\contentsline {section}{\numberline {10.1}Dioden}{15}{}%
-\contentsline {subsection}{\numberline {10.1.1}Sperrkennlinie}{15}{}%
-\contentsline {subsection}{\numberline {10.1.2}Durchbruchsspannung}{15}{}%
-\contentsline {section}{\numberline {10.2}MOSFET}{15}{}%
-\contentsline {section}{\numberline {10.3}Bipolartransistor}{15}{}%
-\contentsline {chapter}{\numberline {11}OPV-Schaltungen}{16}{}%
-\contentsline {section}{\numberline {11.1}Verstärker}{16}{}%
-\contentsline {section}{\numberline {11.2}Schmitttrigger}{16}{}%
-\contentsline {section}{\numberline {11.3}Addierer \and Subtrahierer}{16}{}%
-\contentsline {section}{\numberline {11.4}Integrator \and Differenzierer}{16}{}%
-\contentsline {section}{\numberline {11.5}Instrumentation Amplifier}{16}{}%
-\contentsline {chapter}{\numberline {12}Simulation}{17}{}%
-\contentsline {section}{\numberline {12.1}Altium}{17}{}%
-\contentsline {section}{\numberline {12.2}MicroCap}{17}{}%
+\contentsline {chapter}{\numberline {1}Grundkonzepte}{3}{}%
+\contentsline {section}{\numberline {1.1}Grundeinheiten}{3}{}%
+\contentsline {section}{\numberline {1.2}Konstanten}{3}{}%
+\contentsline {chapter}{\numberline {2}Widerstand}{4}{}%
+\contentsline {section}{\numberline {2.1}Ohm'sches Gesetz}{4}{}%
+\contentsline {section}{\numberline {2.2}Netzwerke}{4}{}%
+\contentsline {subsection}{\numberline {2.2.1}Serienschaltung}{4}{}%
+\contentsline {subsection}{\numberline {2.2.2}Parallelschaltung}{4}{}%
+\contentsline {section}{\numberline {2.3}Leitungswiderstand}{4}{}%
+\contentsline {section}{\numberline {2.4}Sterndreiecktransformation}{4}{}%
+\contentsline {section}{\numberline {2.5}Temperaturabhängigkeit}{4}{}%
+\contentsline {section}{\numberline {2.6}Potentiometer}{4}{}%
+\contentsline {chapter}{\numberline {3}Kirchhoff}{5}{}%
+\contentsline {section}{\numberline {3.1}Knotenregel}{5}{}%
+\contentsline {section}{\numberline {3.2}Maschenregel}{5}{}%
+\contentsline {chapter}{\numberline {4}Leistung}{6}{}%
+\contentsline {section}{\numberline {4.1}Blindleistung}{6}{}%
+\contentsline {subsection}{\numberline {4.1.1}Kompensation}{6}{}%
+\contentsline {section}{\numberline {4.2}Scheinleistung}{6}{}%
+\contentsline {section}{\numberline {4.3}Wirkleistung}{6}{}%
+\contentsline {section}{\numberline {4.4}Wirkungsgrad}{6}{}%
+\contentsline {chapter}{\numberline {5}Quellen}{7}{}%
+\contentsline {section}{\numberline {5.1}Spannungsquelle}{7}{}%
+\contentsline {section}{\numberline {5.2}Stromquelle}{7}{}%
+\contentsline {section}{\numberline {5.3}Überlagerungsprinzip}{7}{}%
+\contentsline {section}{\numberline {5.4}Ersatzschaltbild}{7}{}%
+\contentsline {chapter}{\numberline {6}Felder}{8}{}%
+\contentsline {section}{\numberline {6.1}Elektrisches Feld}{8}{}%
+\contentsline {section}{\numberline {6.2}Elektrischer Fluss}{8}{}%
+\contentsline {section}{\numberline {6.3}Magnetisches Feld}{8}{}%
+\contentsline {section}{\numberline {6.4}Magnetischer Fluss}{8}{}%
+\contentsline {chapter}{\numberline {7}dB-Rechnung}{9}{}%
+\contentsline {section}{\numberline {7.1}dBV}{9}{}%
+\contentsline {section}{\numberline {7.2}dB}{9}{}%
+\contentsline {section}{\numberline {7.3}dBm}{9}{}%
+\contentsline {chapter}{\numberline {8}Wechselstromtechnik}{10}{}%
+\contentsline {section}{\numberline {8.1}Komplexe Zahlen}{10}{}%
+\contentsline {subsection}{\numberline {8.1.1}Addition \and Subtraktion}{12}{}%
+\contentsline {subsection}{\numberline {8.1.2}Multiplikation}{12}{}%
+\contentsline {subsection}{\numberline {8.1.3}Division}{12}{}%
+\contentsline {subsection}{\numberline {8.1.4}Konjugiert Komplexe Zahlen}{12}{}%
+\contentsline {section}{\numberline {8.2}Zeigerdiagramm}{13}{}%
+\contentsline {section}{\numberline {8.3}Impedanz}{14}{}%
+\contentsline {section}{\numberline {8.4}Admittanz}{14}{}%
+\contentsline {chapter}{\numberline {9}Lineare Bauteile}{15}{}%
+\contentsline {section}{\numberline {9.1}Kondensator}{16}{}%
+\contentsline {subsection}{\numberline {9.1.1}Kapazität}{16}{}%
+\contentsline {subsection}{\numberline {9.1.2}Ladung}{16}{}%
+\contentsline {section}{\numberline {9.2}Spule}{16}{}%
+\contentsline {subsection}{\numberline {9.2.1}Induktionsvorgänge}{16}{}%
+\contentsline {subsection}{\numberline {9.2.2}Kopplungsgrad}{16}{}%
+\contentsline {subsection}{\numberline {9.2.3}Induktivitäten}{16}{}%
+\contentsline {section}{\numberline {9.3}RLC Netzwerke}{16}{}%
+\contentsline {subsection}{\numberline {9.3.1}$\tau $-Messung}{16}{}%
+\contentsline {section}{\numberline {9.4}Resonanzkreise}{16}{}%
+\contentsline {subsection}{\numberline {9.4.1}Güte}{16}{}%
+\contentsline {subsection}{\numberline {9.4.2}Bandbreite}{16}{}%
+\contentsline {section}{\numberline {9.5}Übertragungsfunktion}{16}{}%
+\contentsline {subsection}{\numberline {9.5.1}Bodediagramm}{17}{}%
+\contentsline {chapter}{\numberline {10}Halbleiter}{18}{}%
+\contentsline {section}{\numberline {10.1}Dioden}{18}{}%
+\contentsline {subsection}{\numberline {10.1.1}Sperrkennlinie}{18}{}%
+\contentsline {subsection}{\numberline {10.1.2}Durchbruchsspannung}{18}{}%
+\contentsline {section}{\numberline {10.2}MOSFET}{18}{}%
+\contentsline {section}{\numberline {10.3}Bipolartransistor}{18}{}%
+\contentsline {chapter}{\numberline {11}OPV-Schaltungen}{19}{}%
+\contentsline {section}{\numberline {11.1}Verstärker}{19}{}%
+\contentsline {section}{\numberline {11.2}Schmitttrigger}{19}{}%
+\contentsline {section}{\numberline {11.3}Addierer \and Subtrahierer}{19}{}%
+\contentsline {section}{\numberline {11.4}Integrator \and Differenzierer}{19}{}%
+\contentsline {section}{\numberline {11.5}Instrumentation Amplifier}{19}{}%
+\contentsline {chapter}{\numberline {12}Simulation}{20}{}%
+\contentsline {section}{\numberline {12.1}Altium}{20}{}%
+\contentsline {section}{\numberline {12.2}MicroCap}{20}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
